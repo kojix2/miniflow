@@ -3,8 +3,8 @@
 require 'tty-tree'
 require 'tty-screen'
 
-module MiniFlow
-  # Base class for all flows in MiniFlow
+module Miniflow
+  # Base class for all flows in Miniflow
   # The input file must be specified as an absolute path.
   # Each flow has one output directory
   class Flow

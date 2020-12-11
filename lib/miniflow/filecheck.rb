@@ -2,7 +2,7 @@
 
 require 'fileutils'
 
-module MiniFlow
+module Miniflow
   module FileCheck
     module_function
 

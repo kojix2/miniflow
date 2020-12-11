@@ -4,7 +4,7 @@ require_relative 'lib/miniflow/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'miniflow'
-  spec.version       = MiniFlow::VERSION
+  spec.version       = Miniflow::VERSION
   spec.authors       = ['kojix2']
   spec.email         = ['2xijok@gmail.com']
 

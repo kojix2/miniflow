@@ -6,6 +6,6 @@ require_relative 'miniflow/filecheck'
 require_relative 'miniflow/flow'
 require_relative 'miniflow/tool'
 
-module MiniFlow
+module Miniflow
   TTYCMD = TTYCommand.new
 end
