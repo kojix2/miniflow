@@ -2,8 +2,8 @@
 
 require 'tty-command'
 
-module MiniFlow
-  # MiniFlow  uses tty-command to execute the command.
+module Miniflow
+  # Miniflow  uses tty-command to execute the command.
   # Please see the following website for more information.
   # https://ttytoolkit.org/
   class TTYCommand < TTY::Command

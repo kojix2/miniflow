@@ -4,7 +4,7 @@ require_relative 'test_helper'
 
 class TTYCommandTest < Minitest::Test
   def setup
-    @tty_command = MiniFlow::TTYCommand.new
+    @tty_command = Miniflow::TTYCommand.new
   end
 
   def test_include_meta_character?
