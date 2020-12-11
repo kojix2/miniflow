@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'A very small tool to help you execute workflows'
   spec.homepage      = 'https://github.com/kojix2/miniflow'
   spec.license       = 'MIT'
-  spec.required_ruby_version = Gem::Requirement.new('>= 2.4.0')
+  spec.required_ruby_version = '>= 2.5.0'
 
   spec.files         = Dir['*.{md,txt}', '{lib}/**/*']
   spec.require_paths = ['lib']
