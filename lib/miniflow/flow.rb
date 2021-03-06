@@ -14,9 +14,7 @@ module Miniflow
     # * Take file paths as arguments. The file paths can be either absolute or
     # relative.
     # * Other arguments are keyword arguments.
-    def initialize
-      raise NotImplementedError
-    end
+    def initialize; end
 
     def cmd
       TTYCMD
