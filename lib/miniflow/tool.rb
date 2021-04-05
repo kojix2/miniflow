@@ -4,7 +4,6 @@ require 'tty-box'
 require 'tty-screen'
 
 module Miniflow
-  # Burrow-Wheeler Aligner for short-read alignment.
   class Tool
     include FileCheck
 
